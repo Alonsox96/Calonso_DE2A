@@ -1,0 +1,96 @@
+body {
+background-color: pink;
+background-image: url(6e427eedfc32fbb1bda75d1c4bcba25e.jpg);
+}
+
+#contenidor  {
+background-color:#DFFFC9;
+background-image: url(992929976802672e94af4ce3c22a0118.jpg);
+width: 1050px;
+height:1250px;
+border: 5px solid green;
+border-radius: 25px;
+background-size:cover;
+background-repeat: no-repeat;
+
+  }
+
+
+.cuadraditos {
+  height: 150px;
+  width: 150px;
+  background-color:lightgreen;
+  margin: 10px;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  border: 5px solid green;
+  border-radius: 200px;
+  background-position: center;
+  background-size:contain;
+  background-repeat: no-repeat;
+
+
+
+}
+
+#div1 {
+  background-color: salmon;
+  border: 2px solid green;
+  height: 150px;
+  width: 500px;
+  background-image: url(1908571_8543d.png);
+  background-size:contain;
+  background-repeat: no-repeat;
+
+}
+
+#div2 {
+  background-color:lightblue;
+  border: 3px solid green;
+  height: 150px;
+  width: 450px;
+  background-image: url(Sanrio_Characters_Cinnamoroll_Image026.webp);
+
+}
+
+#div3 {
+  background-color: #FF5493;
+  border: 4px solid green;
+  height: 150px;
+  width: 400px;
+  background-image: url(Sanrio_Characters_Kuromi_Image016.webp);
+
+}
+#div4 {
+  background-color: #FFF7A6;
+  border: 5px solid green;
+  height: 150px;
+  width: 350px;
+  background-image: url(Keroppi.webp);
+
+}
+#div5 {
+  background-color: #A6FFF7;
+  border: 6px solid green;
+  height: 150px;
+  width: 300px;
+  background-image: url(huevo.png);
+
+}
+#div6 {
+  background-color: #FFA6D8;
+  border: 7px solid green;
+  height: 150px;
+  width: 250px;
+  background-image: url(kuromi-my-melody-03.png);
+
+}
+#div7 {
+  background-color: #FFC7A6;
+  border: 7px solid green;
+  height: 150px;
+  width: 200px;
+  background-image: url(gato.png);
+
+}
