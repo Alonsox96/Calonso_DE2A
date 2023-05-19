@@ -1,0 +1,427 @@
+body {
+background-color: #FDF0EA;
+}
+#cabecera {
+  height: 200px;
+  background-color: #004758;
+  text-align: center;
+  color: #D9326F;
+  font-family: didot;
+  font-size: 40px;
+  margin-top: -50PX;
+  background-image: url(titulo.png);
+  background-repeat: no-repeat;
+  text-align: center;
+
+}
+#cabecera  img{
+margin-top: -500px;
+}
+#lazo{
+  height: 250px;
+  width: 300px;
+  background-position: center;
+  position: sticky;
+  background-image: url(ribb.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-left: 900px;
+  margin-top: -100px;
+
+}
+
+
+#menu{
+  height: 20px;
+  width: 2170px;
+  background-color: #D9326F;
+  float: right;
+  margin-top: -160px;
+}
+
+#menu li{
+  display: inline-block;
+  font-family: didot;
+  font: color="#D9326F";
+  font-size: 40px;
+  margin-left: 100PX;
+
+
+
+
+}
+#li1 img{
+  height: 50px;
+  margin-left: 1400px;
+}
+
+#li1 img:hover{
+  opacity: 75%;
+}
+#li2 img{
+  height: 55px;
+}
+
+#li2 img:hover{
+  opacity: 75%;
+}
+
+#li3 img{
+  height: 55px;
+}
+
+#li3 img:hover{
+  opacity: 75%;
+}
+#li4 img{
+  height: 55px;
+}
+
+#li4 img:hover{
+  opacity: 75%;
+}
+
+.presentación {
+
+	display: flex;
+	width: 300px;
+	height: 100px;
+	color: #fff;
+	font-size: 40px;
+	line-height: 40px;
+}
+#presentación{
+  background-image: url(hert.JPG);
+  background-size: contain;
+  height: 850px;
+  width: 2170px;
+  border: 1px solid #D9326F;
+  border-radius: 30px;
+  margin-top: -150px;
+}
+#welcome{
+  background-color: #FDF0EA;
+  line-height: 50px;
+  text-align: center;
+  font-size: 150px;
+  font-family: cursive;
+  font-style: Lucida Handwriting;
+  border: 1px solid #D9326F;
+  border-radius: 30px;
+  width: 1350px;
+  height: 500px;
+  margin-top: -600px;
+  margin-left: 90px;s
+
+
+}
+h3:hover{
+  opacity: 80%;
+  color: #D9326F;
+
+}
+
+h4 {
+	position: relative;
+	float: left;
+	background: ;
+	color: #fff;
+	font-size: 2.5em;
+}
+
+h4 span {
+    position:absolute;
+    right:0;
+    width:0;
+    background:#FDF0EA;
+    border-left: 1px solid #000;
+    animation: escribir 5s steps(50) infinite alternate;
+}
+
+@keyframes escribir {
+    from { width: 100% }
+    to { width:0 }
+}
+
+}
+
+@keyframes escribir {
+    from { width: 100% }
+    to { width:0 }
+}
+
+
+
+
+#contenedor{
+  margin-top: 400px;
+  margin-left: 350px;
+  margin-right: 200px;
+  font-size: 30px
+}
+.pelis{
+  margin: 10px;
+  float: left;
+  border-radius: 30px;
+  height: 500px;
+  width: 350px;
+
+}
+#div1{
+  background-image: url(emma.jpg);
+  background-size: cover;
+
+}
+#div1:hover{
+  background-image:url(tazas.jpg);
+}
+#div2{
+  background-color: #F28585;
+  background-image: url(little.jpg);
+  background-size: cover;
+
+}
+#div2:hover{
+  background-image:url(niñas.jpg);
+  }
+#div3{
+  background-color: #F28585;
+  background-image: url(suicidas.jpg);
+  background-size: cover;
+}
+#div3:hover{
+  background-image:url(bragas.jpg);
+  }
+#div4{
+  background-color: #F28585;
+  background-image: url(fuego.jpg);
+  background-size: cover;
+}
+#div4:hover{
+  background-image:url(novias.jpg);
+}
+#div5{
+  background-color: #F28585;
+
+  background-image: url(orgullo.jpg);
+  background-size: cover;
+}
+#div5:hover{
+  background-image: url(prideorg.jpg);
+}
+#div6{
+  border-radius: 45px;
+  background-image: url(lazosrosas.jpg);
+  background-size: auto;
+  height: 500px;
+  width: 720px;
+
+}
+#div6:hover{
+  background-image: url(TEXTO.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+
+
+}
+#div7{
+  background-color: #F28585;
+  background-image: url(marie.JPG);
+  background-size: cover;
+
+}
+#div7:hover{
+  background-image: url(coppola.jpg);
+}
+#redes{
+  margin-top: 1800px;
+  background-color: #D9326F;
+  height: 20px;
+  width: 2300px;
+
+}
+
+
+.site-footer
+{
+  background-color:#26272b;
+  padding:40px 0 10px;
+  font-size:20px;
+  line-height:24px;
+  color:#737373;
+
+}
+.site-footer hr
+{
+  border-top-color:#26272b;
+  opacity:0.5
+
+}
+.site-footer hr.small
+{
+  margin:10px 0
+}
+.site-footer h6
+{
+  color:#fff;
+  font-size:20px;
+  text-transform:uppercase;
+  margin-top:50px;
+  letter-spacing:2px
+
+}
+.site-footer a
+{
+  color:#737373;
+}
+.site-footer a:hover
+{
+  color:#3366cc;
+  text-decoration:none;
+}
+.footer-links
+{
+  padding-left:0;
+  list-style:none
+}
+.footer-links li
+{
+  display:block
+}
+.footer-links a
+{
+  color:#737373
+}
+.footer-links a:active,.footer-links a:focus,.footer-links a:hover
+{
+  color:#3366cc;
+  text-decoration:none;
+}
+.footer-links.inline li
+{
+  display:inline-block
+}
+.site-footer .social-icons
+{
+  text-align:right
+}
+.site-footer .social-icons a
+{
+  width:40px;
+  height:40px;
+  line-height:40px;
+  margin-left:6px;
+  margin-right:0;
+  border-radius:100%;
+  background-color:#33353d
+}
+.copyright-text
+{
+  margin:0
+}
+@media (max-width:980px)
+{
+  .site-footer [class^=col-]
+  {
+    margin-bottom:30px
+  }
+}
+@media (max-width:767px)
+{
+  .site-footer
+  {
+    padding-bottom:0
+  }
+  .site-footer .copyright-text,.site-footer .social-icons
+  {
+    text-align:center
+  }
+}
+.social-icons
+{
+  padding-left:0;
+  margin-bottom:0;
+  list-style:none
+}
+.social-icons li
+{
+  display:inline-block;
+  margin-bottom:4px
+}
+.social-icons li.title
+{
+  margin-right:15px;
+  text-transform:uppercase;
+  color:#96a2b2;
+  font-weight:700;
+  font-size:13px
+}
+.social-icons a{
+  background-color:#eceeef;
+  color:#818a91;
+  font-size:16px;
+  display:inline-block;
+  line-height:44px;
+  width:64px;
+  height:64px;
+  text-align:center;
+  margin-right:8px;
+  border-radius:100%;
+  -webkit-transition:all .2s linear;
+  -o-transition:all .2s linear;
+  transition:all .2s linear
+}
+.social-icons a:active,.social-icons a:focus,.social-icons a:hover
+{
+  color:#fff;
+  background-color:#29aafe
+}
+.social-icons.size-sm a
+{
+  line-height:34px;
+  width:64px;
+  height:64px;
+  font-size:14px
+}
+.social-icons a.Instagram{
+  background-image: url(inst.png);
+  width:64px;
+  height:64px;
+  background-size: cover;
+  }
+.social-icons a.Instagram:hover
+{
+  background-color:#004758
+}
+.social-icons a.Letterboxd{
+  background-image: url(lett.png);
+  width:64px;
+  height:64px;
+  background-size: contain;
+
+  }
+
+.social-icons a.Letterboxd:hover
+{
+  background-color:##D9326F
+}
+.social-icons a.Pinterest{
+  background-image: url(pint.png);
+  width:64px;
+  height:64px;
+  background-size: contain;
+}
+.social-icons a.Pinterest:hover
+{
+  background-color:#D9326F
+}
+
+@media (max-width:767px)
+{
+  .social-icons li.title
+  {
+    display:block;
+    margin-right:0;
+    font-weight:600
+  }
+}
