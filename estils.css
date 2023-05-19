@@ -129,7 +129,7 @@ div.topBotomBordersIn a:hover:before, div.topBotomBordersIn a:hover:after
     transform: translateY(0px);
 }
 
-/* Top border go down and Left border appears */
+
 div.topLeftBorders a:before
 {
     position: absolute;
@@ -167,7 +167,7 @@ div.topLeftBorders a:hover:after
     top: 100%;
 }
 
-/* Circle behind */
+
 div.circleBehind a:before, div.circleBehind a:after
 {
     position: absolute;
@@ -234,7 +234,7 @@ div.brackets a:hover:before, div.brackets a:hover:after
 }
 
 
-/* Border from Y to X  */
+
 div.borderYtoX a:before, div.borderYtoX a:after
 {
     position: absolute;
@@ -265,7 +265,6 @@ div.borderYtoX a:hover:before, div.borderYtoX a:hover:after
     width: 100%;
 }
 
-/* Border X get width  */
 div.borderXwidth a:before, div.borderXwidth a:after
 {
     position: absolute;
@@ -333,7 +332,7 @@ div.pullUp a:hover:before
     height: 100%;
 }
 
-/* Pull right  */
+
 div.pullRight a:before
 {
     position: absolute;
@@ -352,7 +351,7 @@ div.pullRight a:hover:before
     width: 100%;
 }
 
-/* Pull left  */
+
 div.pullLeft a:before
 {
     position: absolute;
@@ -371,7 +370,7 @@ div.pullLeft a:hover:before
     width: 100%;
 }
 
-/* Pull up and down  */
+
 div.pullUpDown a:before, div.pullUpDown a:after
 {
     position: absolute;
@@ -399,7 +398,6 @@ div.pullUpDown a:hover:before, div.pullUpDown a:hover:after
     height: 100%;
 }
 
-/* Pull right and left  */
 div.pullRightLeft a:before, div.pullRightLeft a:after
 {
     position: absolute;
@@ -427,7 +425,7 @@ div.pullRightLeft a:hover:before, div.pullRightLeft a:hover:after
     width: 100%;
 }
 
-/* Highlight text out  */
+
 div.highlightTextOut a
 {
     color: rgba(255, 255, 255, 0.3); 
@@ -453,7 +451,7 @@ div.highlightTextOut a:hover:before, div.highlightTextIn a:hover:before
     opacity: 1;
 }
 
-/* Highlight text in  */
+
 div.highlightTextIn a
 {
     color: rgba(0, 0, 0, 0.4); 
